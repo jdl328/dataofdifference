@@ -10,7 +10,7 @@ Welcome to the data of Difference/ The Difference of Data, A digitial history of
 
 ### Essays {.cards}
 
-[The Applicant Data Card: A History (1930-1965)](https://jdl328.pythonanywhere.com/essay2)
+####[The Applicant Data Card: A History (1930-1965)](https://jdl328.pythonanywhere.com/essay2)
 
 
 ![](https://github.com/jdl328/media/blob/main/texases.jpeg?raw=true)
