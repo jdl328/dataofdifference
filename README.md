@@ -1,6 +1,8 @@
 # Welcome to The Data of Difference
 
 This is a link to [my new essay](sample-essay).
+
+This is a link to [my second essay](essay2).
  
  **Juncture** is a free-to-use, open source framework for converting simple text files into an engaging visual essay. A visual essay is an interactive and responsive web page that augments a text narrative with visual elements to provide depth and context.
 
