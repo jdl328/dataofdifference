@@ -7,8 +7,8 @@ banner: https://tile.loc.gov/storage-services/service/pnp/fsa/8c00000/8c00300/8c
 
 # When using a custom domain these fields must be updated to match
 # the Github account and repository name
-#acct: <GitHub account/username>
-#repo: <GitHub repository>
+acct: jdl328
+repo: dataofdifference
 
 ######################################################
 # Defines options shown in the header navigation menu
