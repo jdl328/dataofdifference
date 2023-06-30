@@ -14,7 +14,7 @@ repo: dataofdifference
 # Defines options shown in the header navigation menu
 ######################################################
 nav:
-- label: Contact the Juncture team
+- label: Contact the Juncture team!
   icon: fas fa-envelope
   action: contact-us
 - label: View page source
