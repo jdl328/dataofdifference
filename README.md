@@ -10,11 +10,13 @@ Welcome to the data of Difference/ The Difference of Data, A digitial history of
 
 ### Essays {.cards}
 
-#### The Applicant Data Card: A History (1930-1965) {href=[https://www.juncture-digital.org/jdl328/essays/essay2](https://jdl328.pythonanywhere.com/essay2)}
+#### [The Applicant Data Card: A History (1930-1965)](https://jdl328.pythonanywhere.com/essay2)}
 
 
 ![](https://github.com/jdl328/media/blob/main/texases.jpeg?raw=true)
 
 How Data made the Employment Service
+
+
 
 More information can be found on the [Juncture web site](https://juncture-digital.org) and in the online [User guide](https://github.com/JSTOR-Labs/juncture/wiki).
