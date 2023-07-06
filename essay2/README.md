@@ -1,5 +1,3 @@
-<param ve-config attribute="value for this attribute">.
-
 ve-header "The Applicant Data Card: A Brief history" background=LightCoral
 
 
