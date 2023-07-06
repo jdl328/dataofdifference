@@ -18,8 +18,7 @@ This is a link to [my second essay](essay2).
 
 ![](https://github.com/jdl328/media/blob/main/texases.jpeg?raw=true)
 
-How Data made the Employment Service
-
+[The Applicant Data Card: A Brief History](essay2)
 
 
 More information can be found on the [Juncture web site](https://juncture-digital.org) and in the online [User guide](https://github.com/JSTOR-Labs/juncture/wiki).
