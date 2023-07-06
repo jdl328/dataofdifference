@@ -6,10 +6,6 @@
 
 .ve-header "The Applicant Data Card: A Brief history" background=LightCoral
 
-<param ve-image url="card1.png"
-       label="John P. Morris's applicant data card."
-       author="Texas USES">
-
 
 .ve-media wc:card1.png right caption="Static image"
 
