@@ -7,14 +7,12 @@
 .ve-header "The Applicant Data Card: A Brief history" background=LightCoral
 
 
-.ve-media wc:card1.png right caption="Static image"
+
+
+.ve-media gh:jdl328/dataofdifference/essay2/card1.png
 
        
-<param ve-image 
-       label="John P. Morris's applicant data card" 
-       description="card1" 
-       license="public domain" 
-       url="https://github.com/jdl328/media/blob/main/card1.png/info.json">
+
        
 .ve-media gh:jdl328/media/card1.png%3Fraw=true right caption="John P. Morris's applicant data card"
 This exhibition focuses on a mundane, if not obsolete technology: *the United States' Employment Service's (USES) job applicant data card.*
