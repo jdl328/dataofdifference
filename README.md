@@ -17,6 +17,9 @@ This is a link to [my new essay](sample-essay).
 
 This is a link to [my second essay](essay2).
 
+
+
+
 ### Essays {.cards}
 
 ####[The Applicant Data Card: A History (1930-1965)](https://jdl328.pythonanywhere.com/essay2)
