@@ -11,6 +11,7 @@
        author="Texas USES">
 
 
+.ve-media wc:card1.png right caption="Static image"
 
        
 <param ve-image 
