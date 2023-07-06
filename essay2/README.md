@@ -1,4 +1,3 @@
-<param ve-config>
 .ve-header "The Applicant Data Card: A Brief history" background=LightCoral
 
 
