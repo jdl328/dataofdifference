@@ -1,5 +1,5 @@
-<param ve-config>
-    
+<param ve-config title="Data of Difference">   
+
 # Welcome to The Data of Difference
 Welcome to the _Data of Difference/ The Difference of Data,_ A digital exhibition on the history of personal data by Jason Ludwig.
 
@@ -20,7 +20,7 @@ This is a link to [my second essay](essay2).
 
 #
 
-### Essays {.cards}
+# Essays {.cards}
 
 ####[The Applicant Data Card: A History (1930-1965)](https://jdl328.pythonanywhere.com/essay2)
 
