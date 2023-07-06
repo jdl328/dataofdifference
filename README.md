@@ -2,7 +2,9 @@
 Welcome to the _Data of Difference/ The Difference of Data,_ A digital exhibition on the history of personal data by Jason Ludwig.
 
 The visual essays in this collection explore two questions about the place of personal data in Twentieth-century American History:
+
         _Which classification systems have government agencies used to sort and order Americans and their data?_ 
+        
         _How have these classification systems changed in accordance with shifts in science, technology, and institutional imperatives?_
 
 This exhibition was created using Juncture. More information can be found on the [Juncture web site](https://juncture-digital.org) and in the online [User guide](https://github.com/JSTOR-Labs/juncture/wiki).
