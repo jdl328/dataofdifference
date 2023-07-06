@@ -11,14 +11,14 @@ _Which classification systems have government agencies used to sort and order Am
 
 This exhibition was created using Juncture. More information can be found on the [Juncture web site](https://juncture-digital.org) and in the online [User guide](https://github.com/JSTOR-Labs/juncture/wiki).
 
- 
+# 
 # Navigating the Exhibition
 This is a link to [my new essay](sample-essay).
 
 This is a link to [my second essay](essay2).
 
 
-
+#
 
 ### Essays {.cards}
 
