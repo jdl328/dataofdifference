@@ -1,4 +1,3 @@
-<param ve-config>
 .ve-header "The Applicant Data Card: A Brief history" background=LightCoral
 
 
@@ -16,3 +15,5 @@ Click on the text below to trigger an image `zoom to` action.
 - ==A close-up of the John P Morris' racial classification=={410,180,100,100}
 - ==John P. Morris's worker code=={768,70,200,200}
 - ==Full image view=={pct:0,0,100,100}
+
+<param ve-config>
