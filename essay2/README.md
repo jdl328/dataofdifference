@@ -1,4 +1,4 @@
-.ve-header "The Data of Difference/The Difference of Data" gh:jdl328/media/texases.jpeg%3Fraw=true The Applicant Data Card: A Brief history background=#5B152E search-domain=https://jdl328.pythonanywhere.com/
+.ve-header "The Data of Difference/The Difference of Data" gh:jdl328/media/texases.jpeg%3Fraw=true background=#5B152E search-domain=https://jdl328.pythonanywhere.com/
     - [Home](essay2))
     - [About](about)
 
