@@ -1,3 +1,5 @@
+.ve-header "Essay Title" gh:jdl328/media/card1.png%3Fraw=true
+
 # Welcome to The Data of Difference
 Welcome to the _Data of Difference/ The Difference of Data,_ A digital exhibition on the history of personal data by Jason Ludwig.
 
