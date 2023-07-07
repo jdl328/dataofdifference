@@ -21,6 +21,10 @@ Click on the text below to trigger an image `zoom to` action.
 - ==Full image view=={pct:0,0,100,100}
 
 
+.ve-media gh:jdl328/dataofdifference/essay2/memphishUSES.png%3Fraw=true right caption="Line of applicants outside of a Memphis USES office"
+The data card was central to the USES efforts to mitigate discrimination on the labor market, particulary against Black Americans and women. 
+
+
 .ve-media grid
     - gh:jdl328/dataofdifference/essay2/Travis_card.png
     - gh:jdl328/dataofdifference/essay2/Gorski_card.png
