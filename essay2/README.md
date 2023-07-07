@@ -21,7 +21,7 @@ Click on the text below to trigger an image `zoom to` action.
 - ==Full image view=={pct:0,0,100,100}
 
 
-.ve-media
+.ve-media grid
     - gh:jdl328/dataofdifference/essay2/Travis_card.png
     - gh:jdl328/dataofdifference/essay2/Gorski_card.png
 
