@@ -9,10 +9,10 @@ Welcome to the _Data of Difference/ The Difference of Data,_ A digital exhibitio
 
 -_How have these classification systems changed in accordance with shifts in science, technology, and institutional imperatives?_
 
-This exhibition was created using Juncture. More information can be found on the [Juncture web site](https://juncture-digital.org) and in the online [User guide](https://github.com/JSTOR-Labs/juncture/wiki).
+This work has been supported by a [Graduate Fellowship in Digital Humanities supported by Sponsored by Cornell University Library & Society for the Humanities](https://blogs.cornell.edu/sgfdh/). The visual essays in this collection were created using Juncture. More information can be found on the [Juncture web site](https://juncture-digital.org) and in the online [User guide](https://github.com/JSTOR-Labs/juncture/wiki).
 
 # 
-# Navigating the Exhibition
+# Links
 This is a link to [my new essay](sample-essay).
 
 This is a link to [my second essay](essay2).
