@@ -1,6 +1,6 @@
 .ve-header "The Data of Difference/The Difference of Data" gh:jdl328/media/texases.jpeg%3Fraw=true Example background=#5B152E search-domain=https://jdl328.pythonanywhere.com/
     - [Home](https://jdl328.pythonanywhere.com))
-    - [About](/about)
+    - [About](about)
 
 # Welcome to The Data of Difference: A History of Personal Data
 Welcome to the _Data of Difference/ The Difference of Data,_ A digital exhibition on the history of personal data by Jason Ludwig.
