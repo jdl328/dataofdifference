@@ -19,6 +19,8 @@ This is a link to [my new essay](sample-essay).
 
 This is a link to [my second essay](essay2).
 
+This is a link to [the about page](about)
+
 
 #
 
