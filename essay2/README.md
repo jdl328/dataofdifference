@@ -20,6 +20,21 @@ Click on the text below to trigger an image `zoom to` action.
 - ==John P. Morris's worker code=={768,70,200,200}
 - ==Full image view=={pct:0,0,100,100}
 
+
+##  Coding the worker 
+.ve-media gh:jdl328/media/texases.jpeg%3Fraw=true right caption="texas"
+
+How exactly did it do this–How exactly did the USES turn workers into data?
+Typically job seekers would visit their local USES office and say that they are looking for work.
+An employment counselor would interview them. The goal of the interview was to collect key information about their work history, skills, and other relevant experiences. This information would be recorded on the data card.How exactly did it do this–How exactly did the USES turn workers into data?
+Typically job seekers would visit their local USES office and say that they are looking for work.
+An employment counselor would interview them. The goal of the interview was to collect key information about their work history, skills, and other relevant experiences. This information would be recorded on the data card
+How exactly did it do this–How exactly did the USES turn workers into data?
+Typically job seekers would visit their local USES office and say that they are looking for work.
+An employment counselor would interview them. The goal of the interview was to collect key information about their work history, skills, and other relevant experiences. This information would be recorded on the data card
+
+
+
 ##  Data and Difference
 
 
