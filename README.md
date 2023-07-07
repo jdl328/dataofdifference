@@ -1,5 +1,5 @@
 .ve-header "The Data of Difference/The Difference of Data" gh:jdl328/media/texases.jpeg%3Fraw=true Example background=#5B152E search-domain=https://jdl328.pythonanywhere.com/
-    - [Home](essay2))
+    - [Home](dataofdifference))
     - [About](about)
 
 # Welcome to The Data of Difference: A History of Personal Data
