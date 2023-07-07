@@ -1,6 +1,6 @@
 .ve-header "The Data of Difference/The Difference of Data" gh:jdl328/media/texases.jpeg%3Fraw=true
 
-# Welcome to The Data of Difference
+# Welcome to The Data of Difference: A History of Personal Data
 Welcome to the _Data of Difference/ The Difference of Data,_ A digital exhibition on the history of personal data by Jason Ludwig.
 
 The visual essays in this collection explore two questions about the place of personal data in Twentieth-century American History:
