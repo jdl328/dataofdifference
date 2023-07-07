@@ -23,7 +23,8 @@ Click on the text below to trigger an image `zoom to` action.
 ##  Data and Difference
 
 
-.ve-media gh:jdl328/essay2/memphis.jpeg%3Fraw=true right caption="Line of applicants outside of a Memphis USES office"
+.ve-media gh:jdl328/media/usesmemphis.jpeg%3Fraw=true right caption="Memphis"
+
 The data card was central to the USES efforts to mitigate discrimination on the labor market, particulary against Black Americans and women. 
 
 
