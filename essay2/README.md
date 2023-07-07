@@ -20,6 +20,8 @@ Click on the text below to trigger an image `zoom to` action.
 - ==John P. Morris's worker code=={768,70,200,200}
 - ==Full image view=={pct:0,0,100,100}
 
+##  Data and Difference
+
 
 .ve-media gh:jdl328/essay2/memphis.jpeg%3Fraw=true right caption="Line of applicants outside of a Memphis USES office"
 The data card was central to the USES efforts to mitigate discrimination on the labor market, particulary against Black Americans and women. 
