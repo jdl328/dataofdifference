@@ -1,19 +1,11 @@
-<param ve-config 
-       title="Girl with a Pearl Earring"
-       author="JSTOR Labs team"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
-       layout="vertical">
+.ve-header "The Data of Difference/The Difference of Data" gh:jdl328/media/texases.jpeg%3Fraw=true Example background=#5B152E search-domain=https://jdl328.pythonanywhere.com/
+    - [Home](essay2))
+    - [About](about)
 
 .ve-header "The Applicant Data Card: A Brief history" background=LightCoral
 
-
-
-
 .ve-media gh:jdl328/dataofdifference/essay2/card1.png
 
-       
-
-       
 .ve-media gh:jdl328/media/card1.png%3Fraw=true right caption="John P. Morris's applicant data card"
 This exhibition focuses on a mundane, if not obsolete technology: *the United States' Employment Service's (USES) job applicant data card.*
 
