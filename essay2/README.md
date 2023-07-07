@@ -4,9 +4,11 @@
 
 
 .ve-media gh:jdl328/media/card1.png%3Fraw=true right caption="John P. Morris's applicant data card"
-This exhibition focuses on a mundane, if not obsolete technology: *the United States' Employment Service's (USES) job applicant data card.*
 
 ### The Applicant Data Card: A Brief History
+
+This exhibition focuses on a mundane, if not obsolete technology: *the United States' Employment Service's (USES) job applicant data card.*
+
 The data card was the essential information technology of the USES, an agency  created in 1933 by President Franklin Delano Roosevelt to provide job-matching services for unemployed Americans during the Great Depression (1929–1939).
 
 The USES set up employment offices in cities around the country, which served as regional labor exchanges for local job seekers. USES employment counselors intended for the data card to serve as “word picture” of the applicant. It was intended to provide a potential employer with all the relevant information they might need about job candidates.
