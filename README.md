@@ -3,7 +3,7 @@
     - [About](about)
 
 # Welcome to The Data of Difference: A History of Personal Data
-Welcome to the _Data of Difference/ The Difference of Data,_ a digital exhibition on the history of personal data by Jason Ludwig. The visual essays in this collection aim to explore the place of personal data in Twentieth-century American history and politics by addressing two questions:
+Welcome to the _Data of Difference/ The Difference of Data,_ a digital exhibition on the history of personal data by Jason Ludwig. The visual essays in this collection aim to explore the place of personal data in twentieth-century American history and politics by addressing two questions:
 
 -_Which classification systems have government agencies used to sort and order Americans and their data?_ 
 
