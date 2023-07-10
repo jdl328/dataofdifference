@@ -1,5 +1,5 @@
 .ve-header "The Data of Difference/The Difference of Data" gh:jdl328/media/texases.jpeg%3Fraw=true Home background=#5B152E
-    - [Home] ()
+    - [Home]()
     - [About](about1)
 
 # Welcome to The Data of Difference: A History of Personal Data
