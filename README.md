@@ -24,7 +24,7 @@ This work has been supported by a [Graduate Fellowship in Digital Humanities spo
 ####[Coding Workers)](https://jdl328.pythonanywhere.com/codingworkers)
 
 
-![](https://github.com/jdl328/media/blob/main/texases.jpeg?raw=true)
+![](https://github.com/jdl328/media/blob/main/Texasuses2.png?raw=true)
 
 [Coding Workers](codingworkers)
 
