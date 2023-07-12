@@ -21,7 +21,7 @@ This work has been supported by a [Graduate Fellowship in Digital Humanities spo
 
 [The Applicant Data Card: A Brief History](essay2)
 
-####[Coding Workers)](https://jdl328.pythonanywhere.com/codingworkers)
+####[Coding Workers](https://jdl328.pythonanywhere.com/codingworkers)
 
 
 ![](https://github.com/jdl328/media/blob/main/Texasuses2.png?raw=true)
