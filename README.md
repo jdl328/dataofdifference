@@ -21,6 +21,13 @@ This work has been supported by a [Graduate Fellowship in Digital Humanities spo
 
 [The Applicant Data Card: A Brief History](essay2)
 
+####[The Applicant Data Card: A History (1930-1965)](https://jdl328.pythonanywhere.com/codingworkers)
+
+
+![](https://github.com/jdl328/media/blob/main/texases.jpeg?raw=true)
+
+[Coding Workers](codingworkers)
+
 
 
 
