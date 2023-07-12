@@ -11,13 +11,7 @@ Welcome to the _Data of Difference/ The Difference of Data,_ a digital exhibitio
 
 This work has been supported by a [Graduate Fellowship in Digital Humanities sponsored by Cornell University Library & Society for the Humanities](https://blogs.cornell.edu/sgfdh/). The visual essays in this collection were created using Juncture, an open-source tool for digital humanities scholarship developed by JSTOR Labs. More information can be found on the [Juncture web site](https://juncture-digital.org) and in the online [User guide](https://github.com/JSTOR-Labs/juncture/wiki).
 
-# 
-# Links
-This is a link to [my new essay](sample-essay).
-
-This is a link to [my second essay](essay2).
-
-This is a link to [the about page](about)
+#
 
 
 #
