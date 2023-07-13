@@ -1,6 +1,6 @@
 .ve-header "The Data of Difference/The Difference of Data" gh:jdl328/media/texases.jpeg%3Fraw=true background=#5B152E search-domain=https://jdl328.pythonanywhere.com/
-    - [Home](jdl328.pythonanywhere.com)
-    - [About](about1)
+    - [Home](/)
+    - [About](/about1)
 
 
 .ve-media gh:jdl328/media/card1.png%3Fraw=true right caption="John P. Morris's applicant data card"
