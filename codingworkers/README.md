@@ -1,6 +1,6 @@
 .ve-header "The Data of Difference/The Difference of Data" gh:jdl328/media/texases.jpeg%3Fraw=true background=#5B152E search-domain=https://jdl328.pythonanywhere.com/
     - <a href="https://jdl328.pythonanywhere.com" target="_self">Home</a> 
-    - [About](about1)
+    - [About](/about1)
     
 # Coding Workers
 
