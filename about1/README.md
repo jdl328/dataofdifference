@@ -1,6 +1,8 @@
-.ve-header "The Data of Difference/The Difference of Data" gh:jdl328/media/texases.jpeg%3Fraw=true About background=#5B152E
+.ve-header "The Data of Difference/The Difference of Data" gh:jdl328/media/texases.jpeg%3Fraw=true Home background=#5B152E contact-form-title="Contact Jason" contact-subject="Contact form for _Data of Difference_" contact=jdl328@cornell.edu
+    - [Contact](contact)
     - [Home](/)
     - [About](/about1)
+    - [Essays](/essays)
     - [Archive](//archive.org/details/@jason_ludwig416)
 
 _Data of Difference/ The Difference of Data,_ is an online collection of visual essays on the history of personal data by Jason Ludwig. It is the digital companion to my dissertation, "Automating Blackness: Race, Computing, and Politics in the Postwar United States,” which examines how government officials, computer experts, and activists sought (and often failed) to advance racial equality through computing in the postwar United States, and how this history can help advance understanding of digitized statecraft and algorithmic discrimination. 
