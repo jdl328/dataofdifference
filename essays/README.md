@@ -1,4 +1,4 @@
-.ve-header "The Data of Difference/The Difference of Data" gh:jdl328/media/texases.jpeg%3Fraw=true Home background=#5B152E
+.ve-header "The Data of Difference/The Difference of Data" gh:jdl328/media/texases.jpeg%3Fraw=true Essays background=#5B152E
     - [Home](/)
     - [About](/about1)
     - [Essays](/essays)
