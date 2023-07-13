@@ -1,5 +1,5 @@
-.ve-header "The Data of Difference/The Difference of Data" gh:jdl328/media/texases.jpeg%3Fraw=true Home background=#5B152E contact-form-title="Contact form for _Data of Difference_" contact-subject="Contact form for _Data of Difference_" contact=jdl328@cornell.edu
-    - [Contact Us](contact)
+.ve-header "The Data of Difference/The Difference of Data" gh:jdl328/media/texases.jpeg%3Fraw=true Home background=#5B152E contact-form-title="Contact Jason" contact-subject="Contact form for _Data of Difference_" contact=jdl328@cornell.edu
+    - [Contact](contact)
     - [Home](/)
     - [About](/about1)
     - [Essays](/essays)
