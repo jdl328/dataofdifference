@@ -6,9 +6,9 @@
     - [Archive](//archive.org/details/@jason_ludwig416)
 
 
-.ve-media gh:jdl328/media/card1.png%3Fraw=true right caption="John P. Morris's applicant data card"
 
 ### The Applicant Data Card: A Brief History
+.ve-media gh:jdl328/media/card1.png%3Fraw=true right caption="John P. Morris's applicant data card"
 
 This exhibition focuses on a mundane, if not obsolete technology: *the United States' Employment Service's (USES) job applicant data card.*
 
@@ -19,8 +19,7 @@ The USES set up employment offices in cities around the country, which served as
 To the right is a data card describing one John P. Morrris. Below are cards that were produced during the same period, describing John C. Travis and Peter Gorski *What year were these cards produced?* *What kinds of information do the cards contain about the workers they describe?*  *Why might this information have been necessary during this period
 
 - ==Click here for a close-up of the John P Morris' racial classification=={410,180,100,100}
-- == Click here for John P. Morris's worker code=={768,70,200,200}
-- ==Full image view=={pct:0,0,100,100}
+- ==Click here for John P. Morris's worker code=={768,70,200,200} 
 
 .ve-media gh:jdl328/dataofdifference/essay2/Gorski_card.png%3Fraw=true left  caption="Peter Gorski's' applicant data card"
 .ve-media gh:jdl328/dataofdifference/essay2/Travis_card.png%3Fraw=true right  caption="John C. Travis's applicant data card"
@@ -48,7 +47,25 @@ The case of computing in the USES can serve as entryway into understanding the c
 
 .ve-media gh:jdl328/media/usesmemphis.jpeg%3Fraw=true right caption="Workers line up outside of an employment office in Memphis (1938)"
 
-The data card was also central to the USES efforts to mitigate discrimination on the labor market, particulary against Black Americans and women. As Black Americans and other marginalized groups organized movements against racial discrimination within American society, the affordances particular to emerging information technologies offered USES officials a vision of racial equality achieved through computational methods. For the bureaucrats charged with overseeing government employment programs, computerized job-matching promised to transform how the state identified American citizens and found employment to them. Per this vision, computers would serve as disinterested decision-makers, processing and acting on citizens’ personal data in a manner lacking subjective interpretation or racial bias, in stark contrast to human bureaucrats. The appeal of computing’s “mechanical objectivity” led government officials to plan computerized matching systems across the federal employment service. However, as the development of these systems did not always align with the visions of unbiased and objective technological governance. 
+The data card was also central to the USES efforts to mitigate discrimination on the labor market, particulary against Black Americans and women. As Black Americans and other marginalized groups organized movements against racial discrimination within American society, the affordances particular to emerging information technologies offered USES officials a vision of racial equality achieved through computational methods. For the bureaucrats charged with overseeing government employment programs, computerized job-matching promised to transform how the state identified American citizens and found employment to them. Per this vision, computers would serve as disinterested decision-makers, processing and acting on citizens’ personal data in a manner lacking subjective interpretation or racial bias, in stark contrast to human bureaucrats. The appeal of computing’s “mechanical objectivity” led government officials to plan computerized matching systems across the federal employment service. However, as the development of these systems did not always align with the visions of unbiased and objective technological governance. Take the two cards below, one handwritten in 1944 and the other a mock-up of a data card as displayed on a computer terminal in 1976, as an example
+
+.ve-media https://iiif.archivelab.org/iiif/screen-shot-2023-07-14-at-8.58.04-am/manifest.json %3Fraw=true left  caption="Joseph Smith Data Card (1944)"
+.ve-media https://iiif.archivelab.org/iiif/screen-shot-2023-07-14-at-9.00.29-am/manifest.json %3Fraw=true right  caption="A mock digitized data card (1976)"
+
+One of the most important differences between the two cards was *the complete removal of racial classification* by the time applicant data was computerized in 1976. The system had been consciously designed not to “see” race. No keywords were available in the system to record the racial, religious or ethnic background of applicants. Thus, when applicant data was retrieved from the central databank to identify a potential job-match, the system’s programming sought to ensure that there was no possibility of discrimination against a particular individual or job because of these characteristics. Technical manuals for USES counselors celebrated how the system’s “programming” resolved concerns around discrimination through "adherence to a carefully structured, orderly and logical sequence of data inputs regarding applicant and job characteristics."
+
+Through this new system, USES officials believed they had found an adequate answer to the barriers to employment caused by racial discrimination, allowing jobseekers to be evaluated at a level that was more than just skin-deep. Yet if the new system putatively removed overt discrimination from the job-matching process, race was too deeply ingrained into the structure of American society for it to ever fully be automated away. As commentators pointed out, the racial organization of American society created barriers for placing Black workers in jobs, even after the removal of racial classification from USES systems. 
+
+There were several ways in which racial structures continued to "haunt" the colorblind computing system, and in fact contemporary commentators have written much on the dangers of "race-blind" systems that end up reifying the very disparities they are intended to address. What has most interested me, however, is the category of worker traits which were primarily used by special service and counseling units as a search alternative to work experience or aptitude keywords for applicants with minimal employment histories. These were called the negative temperaments (or NEG-TNPTS in the mock card above). Whereas the listing of aptitudes indicated the potential range of jobs that a qualified applicant would thrive in, the  negative temperaments indicated the kinds of work that hard-to-match jobseeker would likely find too difficult or overwhelming.  I originally did not think too much of this until I came across reference ina  report on a 1971 study commissioned by the Labor Department (the home agency of the USES in the federal government) that purported to identify the common psychological characteristics of those who “escape the ghetto.”
+
+The study, the full title of which is “A Study of Successful Persons from Seriously Disadvantaged Backgrounds,” identifies several traits that are the near inversed images of the negative temperaments that were standardized and coded into the job-matching system. Whereas the studied concluded that the successful ghetto-dweller engages in risk-taking behavior, the negative temperaments suggested that hard-to-match applicant did not perform well in emergency, critical, unusual or dangerous situations. Where the successful ghetto-dweller was aware of alternative paths according to the study, the one of the negative temperaments was a dislike like variety or change in work duties and tasks. The list continues. Successful individual: Has supportive, inspiring relationships and a questioning orientation towards life and other people; hard-to match: cannot deal with people beyond giving and receiving instructions. Perhaps the most important distinction: while the successful individual possesses a sense of self, pride, and the feeling of being somebody, the difficult to match cannot convey any interpretation of their own feelings, ideas or facts in terms of a personal viewpoint. 
+
+Where traditional forms of work classification were unhelpful, the dichotomy between (in the words of the study) “the successful identity which transcends the ghetto” and the one which remains trapped in it helped structure a distinction between who was and who was not worthy of work in the postwar economy. 
+
+
+
+
+
 
 
 
