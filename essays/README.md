@@ -11,14 +11,14 @@
 
 ![](https://github.com/jdl328/media/blob/main/texases.jpeg?raw=true)
 
-[The Applicant Data Card: A Brief History](essay2)
+[The Applicant Data Card: A Brief History](/essay2)
 
 ####[Coding Workers](https://jdl328.pythonanywhere.com/codingworkers)
 
 
 ![](https://github.com/jdl328/media/blob/main/Texasuses2.png?raw=true)
 
-[Coding Workers](codingworkers)
+[Coding Workers](/codingworkers)
 
 
 
