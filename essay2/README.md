@@ -16,7 +16,9 @@ The data card was the essential information technology of the USES, an agency  c
 
 The USES set up employment offices in cities around the country, which served as regional labor exchanges for local job seekers. USES employment counselors intended for the data card to serve as “word picture” of the applicant. It was intended to provide a potential employer with all the relevant information they might need about job candidates.
 
-To the right is a data card describing one John P. Morrris. Below are cards that were produced during the same period, describing John C. Travis and Peter Gorski *What year were these cards produced?* *What kinds of information do the cards contain about the workers they describe?*  *Why might this information have been necessary during this period
+To the right is a data card describing one John P. Morrris. Below are cards that were produced during the same period, describing John C. Travis and Peter Gorski
+
+Some questions to consider while looking over these cards: *What year were these cards produced?* *What kinds of information do the cards contain about the workers they describe?*  *Why might this information have been necessary during this period?*
 
 - ==Click here for a close-up of the John P Morris' racial classification=={410,180,100,100}
 - ==Click here for John P. Morris's worker code=={768,70,200,200} 
